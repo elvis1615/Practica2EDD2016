@@ -100,32 +100,7 @@ namespace Practica2
             return null;
         }
 
-        public void eliminar(int id) {
-            NodoArbol r = Search(id, raiz);
-            if (r.esHoja())
-            {
-                r = null;
-            }
-            else {
-
-            }
-
-        }
-
-        public NodoArbol obtenerPadre(int id) {
-            NodoArbol n = new NodoArbol(-1);
-            if (!vacio())
-            {
-                n = raiz;
-                NodoArbol temporal2;
-                if()
-                while (n.) {
-
-                }
-            }
-            return n;
-        }
-
+       
         public void menorValor()
         {
             if (raiz != null)

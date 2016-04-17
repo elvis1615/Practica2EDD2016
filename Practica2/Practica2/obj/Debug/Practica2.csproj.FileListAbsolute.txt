@@ -4,3 +4,9 @@ c:\users\elvis\documents\visual studio 2015\Projects\Practica2\Practica2\bin\Pra
 c:\users\elvis\documents\visual studio 2015\Projects\Practica2\Practica2\obj\Debug\Practica2.csprojResolveAssemblyReference.cache
 c:\users\elvis\documents\visual studio 2015\Projects\Practica2\Practica2\obj\Debug\Practica2.dll
 c:\users\elvis\documents\visual studio 2015\Projects\Practica2\Practica2\obj\Debug\Practica2.pdb
+C:\Users\Elvis\Documents\Visual Studio 2015\Projects\Practica2EDD2016\Practica2\Practica2\obj\Debug\Practica2.csprojResolveAssemblyReference.cache
+C:\Users\Elvis\Documents\Visual Studio 2015\Projects\Practica2EDD2016\Practica2\Practica2\obj\Debug\Practica2.dll
+C:\Users\Elvis\Documents\Visual Studio 2015\Projects\Practica2EDD2016\Practica2\Practica2\obj\Debug\Practica2.pdb
+C:\Users\Elvis\Documents\Visual Studio 2015\Projects\Practica2EDD2016\Practica2\Practica2\bin\Practica2.dll.config
+C:\Users\Elvis\Documents\Visual Studio 2015\Projects\Practica2EDD2016\Practica2\Practica2\bin\Practica2.dll
+C:\Users\Elvis\Documents\Visual Studio 2015\Projects\Practica2EDD2016\Practica2\Practica2\bin\Practica2.pdb

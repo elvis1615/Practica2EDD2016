@@ -11,8 +11,10 @@ namespace Practica2
     // NOTE: In order to launch WCF Test Client for testing this service, please select RestServiceImpl.svc or RestServiceImpl.svc.cs at the Solution Explorer and start debugging.
     public class RestServiceImpl : IRestServiceImpl
     {
-        public void DoWork()
+        public string JSONData(string id, string a)
         {
+            //throw new NotImplementedException();
+            return "hola k ase>>" + id +" "+a;
         }
     }
 }
